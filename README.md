@@ -24,6 +24,8 @@
 
 JavaScript, Node.js, Express.js, MongoDB, IndexedDB, PWA
 
+![Screenshot of the Application](/public/assets/screenshot.png)
+
 # License
 
 Mozilla Public License 2.0
@@ -31,12 +33,6 @@ Mozilla Public License 2.0
 # Contributors
 
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=GunnySensei/PNW-PWA)](https://github.com/GunnySensei/PNW-PWA)
-
-# Tests
-
-- Tests are used: false
-- How to test this application:
-  -- undefined
 
 # Questions
 
