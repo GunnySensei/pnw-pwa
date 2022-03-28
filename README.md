@@ -19,6 +19,7 @@
 
 - How to install this application:
   -- NPM i && MongoDB
+  -- Link to Site: https://pnw-pwa.herokuapp.com/ 
 
 # Usage
 
